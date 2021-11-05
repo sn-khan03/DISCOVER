@@ -1,0 +1,158 @@
+
+@media (max-width:700px){
+    .home{
+        width: 100%;
+        min-height: 40vh;
+    }
+    .black-layer{
+        width: 100%;
+    }
+    .home h2{
+        width: 100%;
+        font-size: 30px;
+        margin-top: 50%;
+    }
+    .user{
+        width: 100%;
+        height: 30%;
+    }
+    .how{
+        width: 50%;
+        font-size: 15px;
+        margin-left: 20px;
+        margin-top: 40px;
+    }
+    .express{
+        font-size: 15px;
+        margin-top: 65px;
+        margin-left: 20px;
+    }
+    .mind{
+        font-size: 5px;
+        width: 100px;
+    }
+    .salva{
+        width: 40%;
+        font-size: 7px;
+        margin-top: 90px;
+    }
+    .digital{
+        font-size: 4px;
+        margin-top: 110px;
+    }
+    .two{
+        font-size: 25px;
+    }
+    .years1{
+        font-size: 8px;
+        margin-top: 130px;
+    }
+    .years2{
+        font-size: 8px;
+        margin-top:140px;
+    }
+    .happy{
+        width: 100%;
+        height: 30%;
+    }
+    .happy img{
+        width: 90%;
+        height: 100px;
+        margin-top: 50px;
+        margin-left: 27px;
+    }
+    .happy .things{
+        font-size: 15px;
+        margin-top: 40px;
+    }
+    .happy .able{
+        font-size: 15px;
+        margin-top: 60px;
+    }
+    .container{
+        width: 100%;
+        margin-top: 50px;
+    }
+    .card{
+        margin-left: 130px;
+    }
+    .container1{
+        width: 100%;
+        margin-top:100px;
+    }
+    .dark1{
+        margin-top: 100px;
+    }
+
+    .container2{
+        width: 100%;
+        margin-top:70px;
+    }
+    .dark2{
+        margin-top: 100px;
+    }
+    .buttons{
+        width: 100%;
+        height: 60%;
+    }
+    .agensy{
+        font-size: 20px;
+        text-align: center;
+        margin-top: 30px;
+        width: 80%;
+    }
+    .brand{
+        width: 70%;
+        display: flex;
+        flex-wrap:wrap;
+        margin-left:20%;
+    }
+    .box{
+        width: 100px;
+        height: 80px;
+        font-size: 20px;
+        line-height: 80px;
+    }
+    .end{
+        width: 100%;
+        height: 50%;
+        margin-top: 50px;
+    }
+    .icons{
+        margin-left: 22%;
+    }
+    ul li a{
+        width: 50px;
+        height: 50px;
+    }
+    ul li a:before{
+        display: none;
+    }
+    .end h4{
+        font-size: 10px;
+        margin-left: 40px;
+    }
+    .end h2{
+        width: 80%;
+        font-size: 18px;
+        margin-left: 35px;
+    }
+    .end h6{
+        font-size: 10px;
+        margin-top: 200px;
+        margin-left: 30px;
+    }
+    .line{
+        margin-top: 240px;
+    }
+    .end h5{
+        margin-top: 250px;
+        font-size: 8px;
+        margin-left: 2px;
+    }
+    .end h3{
+        margin-top: 250px;
+        font-size: 8px;
+        margin-left: 300px;
+    }
+}
